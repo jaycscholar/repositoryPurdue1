@@ -34,6 +34,6 @@ then push: git push
 git commit and :wq to save and exit 
 
 
-you can add only the title and the description using -m -m
+you can add only the title and the description and another description using -m -m -
 
 --------
