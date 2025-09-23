@@ -10,7 +10,8 @@ change at 411
 I need to confess them sins
 
 
-Might as well add the instructions (416):
+Might as well add the instructions:
+-----------------------
 
 git
 
@@ -29,3 +30,4 @@ git add README.md
    
 then commit: git commit -m “Note for commit” 
 then push: git push
+
