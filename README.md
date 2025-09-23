@@ -31,5 +31,7 @@ git add README.md
 then commit: git commit -m “Note for commit” 
 then push: git push
 
+git commit and :wq to save and exit 
+
 
 ------
